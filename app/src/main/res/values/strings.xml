@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TopFilms</string>
+    <string name="message_search_holder">Введите название фильма</string>
+    <string name="message_error">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+    <string name="message_error_short">Проблема с подключеним к сети</string>
+    <string name="message_empty_details">Выберите фильм из списка</string>
+    <string name="message_empty_fav">
+        Избранных фильмов нет.
+        \nВы можете добавить фильм в \"Избранное\" с помощью долгого нажатия на его карточку.
+    </string>
+    <string name="toast_add_to_fav">Вы добавили фильм в избранное</string>
+    <string name="toast_delete_from_fav">Вы удалили фильм из избранного</string>
+    <string name="repeat">Повторить</string>
+    <string name="search">Поиск</string>
+    <string name="top_title">Популярные</string>
+    <string name="fav_title">Избранное</string>
+    <string name="genres">Жанры:</string>
+    <string name="countries">Страны:</string>
+</resources>
