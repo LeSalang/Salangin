@@ -18,4 +18,4 @@ Used tech stack:
 <img src = ".github/5.jpg" width="32%" />&nbsp;<img src = ".github/4.jpg" width="32%" />&nbsp;<img src = ".github/6.jpg" width="32%" />
 <br>
 </p>
-<p align="center"><img src = ".github/7.jpg" width="96%" /></p>
+<p align="center"><img src = ".github/7.jpg" width="68%" /></p>
